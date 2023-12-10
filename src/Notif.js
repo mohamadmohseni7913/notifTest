@@ -25,7 +25,7 @@ const Notif = () => {
  
     return (
         <div>
-            <h1>دریافت نوتیف </h1>
+            <h1>دریافت نوتیف saasdsadsad</h1>
             <button onClick={() => clickToNotification()}>notif</button>
         </div>
     )
