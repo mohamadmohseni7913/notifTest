@@ -10,6 +10,7 @@ const Notif = () => {
                 })
             }
         })
+        navigator.vibrate([500,400,300])
     }
 
     // when user get out from site send notif
